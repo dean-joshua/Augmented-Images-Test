@@ -16,13 +16,11 @@ Java, ARCore, JBullet
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Android Developer Augmented Images](https://developers.google.com/ar/develop/java/augmented-images)
 * [Android Developer ARCore Quickstart](https://developers.google.com/ar/develop/java/quickstart)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Change the default detected image
 * Get a better quality 3D spaceship object
 * Adding in a different size and type of maze
